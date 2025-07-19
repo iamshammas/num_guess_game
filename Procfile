@@ -1,0 +1,1 @@
+web: gunicorn guess_game.wsgi:application
